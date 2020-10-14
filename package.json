@@ -1,0 +1,8 @@
+{
+  "name": "autismo-v1",
+  "version": "1.0.0",
+  "description": "Projeto Web do Autismo na versão 1",
+  "keywords": [],
+  "main": "/index.html",
+  "dependencies": {}
+}
