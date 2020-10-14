@@ -1,1 +1,1 @@
- link para o codesandbox:  https://codesandbox.io/s/autismproject-xs5k0?file=/src/index.js
+ [![Run on Repl.it](https://repl.it/badge/github/ferBecker/projeto-autismo)](https://repl.it/github/ferBecker/projeto-autismo)
